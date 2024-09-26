@@ -1,0 +1,18 @@
+/* código omitido */
+
+body {
+    background-color: #08efffd2;
+    color: white;
+    font-family: "Reddit Sans Condensed", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
